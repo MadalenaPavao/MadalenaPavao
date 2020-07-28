@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I am Madalena and I am a software developer based in Nice, France. I work for Alten as an IT consultant and I have spent the last two years working for Amadeus IT Group. Currently I am dedicating myself to improve my skills in Front-End development, namely in Angular and React.
+I am Madalena and I am a software developer based in Nice, France. I work for Alten as an IT consultant and I have spent the last two years working for Amadeus IT Group as C++ and Angular developer. Currently I am dedicating myself to improve my skills in Front-End development, namely in Angular and React.
 
 
 <!--
