@@ -9,8 +9,8 @@ I am Madalena and I am a software developer based in Nice, France. I work for Al
 <p align="center">
   <i>Find me on:</i>
   <p align="center">
-    <a href="https://www.linkedin.com/in/madalenapavao/" alt="Linkedin"><img src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>
-    <a href="mailto:madalenapavao@gmail.com" alt="Contact me"><img src="https://image.flaticon.com/icons/svg/732/732200.svg"></a>
+    <a href="https://www.linkedin.com/in/madalenapavao/" alt="Linkedin"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" height="100" width="100"></a>
+    <a href="mailto:madalenapavao@gmail.com" alt="Contact me"><img src="https://image.flaticon.com/icons/svg/732/732200.svg" height="100" width="100"></a>
   </p>
 
 
