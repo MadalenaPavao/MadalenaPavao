@@ -3,14 +3,12 @@
 I am Madalena and I am a software developer based in Nice, France. I work for Alten as an IT consultant and I have spent the last two years working for Amadeus IT Group as C++ and Angular developer. Currently I am dedicating myself to improve my skills in Front-End development, namely in Angular and React.
 
 
-<!--<img src="https://picsum.photos/id/1/200/300" alt="Hero image">-->
-
 <hr>
 <p align="center">
   <i>Find me on:</i>
   <p align="center">
-    <a href="https://www.linkedin.com/in/madalenapavao/" alt="Linkedin"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" height="100" width="100"></a>
-    <a href="mailto:madalenapavao@gmail.com" alt="Contact me"><img src="https://image.flaticon.com/icons/svg/732/732200.svg" height="100" width="100"></a>
+    <a href="https://www.linkedin.com/in/madalenapavao/" alt="Linkedin"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" height="50" width="50"></a>
+    <a href="mailto:madalenapavao@gmail.com" alt="Contact me"><img src="https://image.flaticon.com/icons/svg/732/732200.svg" height="50" width="50"></a>
   </p>
 
 
