@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I am Madalena and I am a software developer based in Nice, France 🥖. I work as an IT consultant 👩‍💻 and I have spent the last two years working as a full stack developer for clients such as Amadeus, Bombardier/Alstom and Merck. I have worked with several programming languages and frameworks such as C++, Angular, Python, Javascript, Typescript and React (well, not a framework 😜). I am also interested in UI/UX design, as my goal is to create user-friendly, responsive and accessible applications, and I am working every day to fullfil that goal.
+I am Madalena and I am a software developer based in Nice, France 🇫🇷🍷🥖. I work as an IT consultant 👩‍💻 and I have spent the last two years working as a full stack developer for clients such as Amadeus, Bombardier/Alstom and Merck. I have worked with several programming languages and frameworks such as C++, Angular, Python, Javascript, Typescript and React (well, not a framework 😜). I am also interested in UI/UX design 🎨, as my goal is to create user-friendly, responsive and accessible applications, and I am working every day to fullfil that goal.
 
 
 <hr>
@@ -8,7 +8,7 @@ I am Madalena and I am a software developer based in Nice, France 🥖. I work a
   <i>Find me on:</i>
   <p align="center">
     <a href="https://www.linkedin.com/in/madalenapavao/" alt="Linkedin" target="_blank"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" height="20" width="20"></a>
-    <a href="mailto:madalenapavao@gmail.com" alt="Contact me"><img src="https://image.flaticon.com/icons/svg/732/732200.svg" height="20" width="20"></a>
+    <a href="mailto:madalenapavao@gmail.com" alt="Contact me"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20" width="20"></a>
   </p>
 
 
