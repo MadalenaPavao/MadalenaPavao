@@ -7,7 +7,7 @@ I am Madalena and I am a software developer based in Nice, France 🇫🇷🍷�
 <p align="center">
   <i>Find me on:</i>
   <p align="center">
-    <a href="https://www.linkedin.com/in/madalenapavao/" alt="Linkedin" target="_blank"><img src="[https://image.flaticon.com/icons/svg/174/174857.svg](https://iconape.com/wp-content/files/yd/367773/svg/logo-linkedin-logo-icon-png-svg.png)" height="20" width="20"></a>
+    <a href="https://www.linkedin.com/in/madalenapavao/" alt="Linkedin" target="_blank"><img src="https://iconape.com/wp-content/files/yd/367773/svg/logo-linkedin-logo-icon-png-svg.png" height="20" width="20"></a>
     <a href="mailto:madalenapavao@gmail.com" alt="Contact me"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20" width="20"></a>
   </p>
 
