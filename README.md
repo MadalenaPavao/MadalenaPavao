@@ -1,8 +1,8 @@
 ### Hello there! 👋
 
-I am Madalena and I am a software developer currently based in Paris, France 🇫🇷🍷🥖. I have over six years of experience in web development, having worked with several programming languages and frameworks such as React (well, not a framework 😜), Java, C++, Angular, Python, Javascript, Typescript...
-I worked as a Lead Developer at DNA Script, a french biotech startup where I developed user friendly web applications to ease the scientists day-to-day life. Before I worked as an IT consultant 👩‍💻 as a full stack developer for clients such as Amadeus, Bombardier/Alstom and Merck. 
-I am also interested in UI/UX design 🎨, as my goal is to create user-friendly, responsive and accessible applications, to make life easier through technology.
+I am Madalena and I am a software developer 👩‍💻 currently based in Paris, France 🍷🥖. I have over six years of experience in web development, having worked with several programming languages and frameworks such as React (well, not a framework 😜), Java, C++, Angular, Python, Javascript, Typescript...
+I worked in several different companies and environments, namely as a Lead Developer at DNA Script, a french biotech startup, and before that as an IT consultant as a front-end and full-stack developer for clients such as Amadeus, Bombardier/Alstom and Merck. I also have academic experience in data analysis and data science in Python and R.
+In my applications I am very focused in UI/UX and design 🎨, as my goal is to create user-friendly, responsive and accessible applications, to make everyone's life easier through technology.
 
 
 <hr>
