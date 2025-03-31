@@ -1,10 +1,17 @@
-### Hello there! 👋
+### Hi there! 👋
+I’m Madalena, a software developer 👩‍💻 with a background in biomedical sciences and bioinformatics and a strong interest in the health sector.
 
-I am Madalena and I am a software developer 👩‍💻. I have over six years of experience in web development, having worked with several programming languages and frameworks such as React (well, not a framework 😜), Java, C++, Angular, Python, Javascript, Typescript...
+I have over six years of experience in web development, working with various programming languages and frameworks such as Vue, React (well, not a framework 😜), Java, C++, Angular, Python, JavaScript, and TypeScript.
 
-I worked in several different companies and environments, namely as a Lead Developer at DNA Script, a french biotech startup, and before that as an IT consultant as a front-end and full-stack developer for clients such as Amadeus, Bombardier/Alstom and Merck. I also have academic experience in data analysis and data science in Python and R.
+Currently, I work as a full-stack developer at Pacmed, where I develop AI-based applications for ICU decision support, combining my passion for technology with my interest in healthcare.
 
-In my applications I am very focused in UI/UX and design 🎨, as my goal is to create user-friendly, responsive and accessible applications, to make everyone's life easier through technology.
+Previously, I was a Lead Developer at DNA Script, a French biotech startup, where I contributed to innovative solutions in the biotech space. Before that, I worked as an IT consultant, specializing in front-end and full-stack development for clients such as Amadeus, Bombardier/Alstom, and Merck.
+
+Beyond software development, I have academic experience in data analysis and data science using Python and R, which allows me to work at the intersection of health, AI, and data-driven applications.
+
+In my applications, I focus heavily on UI/UX and design 🎨, striving to create user-friendly, responsive, and accessible solutions that improve people’s lives through technology.
+
+Let’s connect and explore opportunities to make a meaningful impact together! 🚀
 
 
 <hr>
